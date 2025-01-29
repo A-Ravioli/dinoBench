@@ -1,0 +1,23 @@
+{
+  "high_scores": [
+    {
+      "score": 8,
+      "agent_name": "Random Agent",
+      "timestamp": "2025-01-14T16:42:49.997469",
+      "seed": 107744
+    }
+  ],
+  "recent_runs": [
+    {
+      "agent_name": "Random Agent",
+      "timestamp": "2025-01-14T16:42:49.997450",
+      "episodes": 5,
+      "best_score": 8,
+      "best_seed": 107744,
+      "average_score": 3.4,
+      "std_score": 2.727636339397171,
+      "median_score": 2.0,
+      "duration": 36.260706186294556
+    }
+  ]
+}
